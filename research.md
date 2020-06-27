@@ -1,6 +1,6 @@
 ---
 title: Research
 menus: header
-layout: default
+layout: research
 permalink: /research/
 ---
