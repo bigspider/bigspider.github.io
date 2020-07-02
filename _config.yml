@@ -9,17 +9,17 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 urls:
     - text: About Me
       url: /about
-    - text: Blog
-      url: /blog
     - text: Research
       url: /research
+    - text: Blog
+      url: /blog
 
 # Edit these details
 
 author_logo: profile.png
 author: Salvatore Ingala
-author_bio: I'm Salvatore Ingala. Writing software sill change society from the bottom up.
-author_email: "salvatore.ingala@gmail.com"
+author_bio: I'm Salvatore Ingala. Writing software will change society from the bottom up.
+author_email: "salvatoshi@protonmail.com"
 author_location: Digital Nomad
 author_website_url: "http://salvatoshi.com"
 typewrite-text: Come back later, this is not ready yet
@@ -29,7 +29,7 @@ author_work_experiences:
               company_logo: anydotcrypto.png
               company_url: https://www.anydot.dev/
               designation: Software Engineer
-              description: One of three developers who built the product from scratch.
+              description: One of three developers who built the product from scratch - any.sender is running on mainnet.
               visibility: true
 
 
@@ -38,7 +38,7 @@ author_education_details:
                 college_name: IDSIA
                 college_url: http://www.idsia.ch/
                 college_degree: PhD
-                description: PhD in Approximation Algorithms
+                description: PhD in Approximation Algorithms.
                 visibility: true
 
 
