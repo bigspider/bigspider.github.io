@@ -6,3 +6,15 @@
 @import "devlopr";
 
 /* custom css goes below */
+
+.research-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.research-item {
+    border: 1px solid var(--research-border-color);
+    border-radius: 3pt;
+    padding: 6pt;
+    margin-bottom: 6pt;
+}
