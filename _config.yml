@@ -1,5 +1,5 @@
 title: Salvatore Ingala
-subtitle: come back later, this is a template
+subtitle: Coding, Thinking, Tinkering with Code
 description: >- # this means to ignore newlines until "baseurl:"
   Personal website
 
@@ -18,11 +18,11 @@ urls:
 
 author_logo: profile.png
 author: Salvatore Ingala
-author_bio: I'm Salvatore Ingala. Writing software will change society from the bottom up.
+author_bio: I'm Salvatore Ingala. I like software that can't be evil.
 author_email: "salvatoshi@protonmail.com"
 author_location: Digital Nomad
 author_website_url: "https://salvatoshi.com"
-typewrite-text: Come back later, this is not ready yet
+typewrite-text: Welcome
 
 author_work_experiences:
             - company_name: anydotcrypto / PISAResearch
