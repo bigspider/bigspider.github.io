@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Salvatore Ingala
 title: Hello world
 ---
 
