@@ -1,5 +1,5 @@
 ---
-title: Incentive alignment in money production
+title: Incentive alignment in money production [draft]
 layout: post
 author: Salvatore Ingala
 ---
