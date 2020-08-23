@@ -2,6 +2,7 @@
 title: Hello blog
 layout: post
 author: Salvatore Ingala
+category: general
 ---
 
 # Intro
@@ -20,7 +21,7 @@ Therefore, I want Bitcoin to be the main focus of my work at this time. I believ
 ## What will this blog contain?
 I will probably write mostly about Bitcoin. Especially, I would like to develop some topics that are not strictly technical and I'm not necessarily an expert about. Bitcoin forced me to expand my horizons in directions I never thought I would be interested, like the history of money, energy, finance, banking, and their interaction with politics and society. Writing about them might help me systematize my ideas on topics that I'm learning, and hopefully I'll have something interesting to say about them. 
 
-Because I installed an extension to the blog that lets me write beautiful mathematical formulas like \\(\displaystyle \sum_{n = 1}^\infty \frac{1}{n^2} = \frac{\pi^2}{6}\\) I might  also write some solution to maths problems that I like. Just because [I like to be mentally challenged](http://explosm.net/comics/3286/).
+Because I installed an extension to the blog that lets me write beautiful mathematical formulas like \\(\displaystyle \sum_{n = 1}^\infty \frac{1}{n^2} = \frac{\pi^2}{6}\\), I might  also write some solution to maths problems that I like. Just because [I like to be mentally challenged](http://explosm.net/comics/3286/).
 
 I might write about something else completely.
 Basically, this blog is an extension of my thoughts, with no guarantees on quantity, nor quality.

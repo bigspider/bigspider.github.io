@@ -2,6 +2,7 @@
 title: Incentive alignment in money production [draft]
 layout: post
 author: Salvatore Ingala
+category: bitcoin
 ---
 
 Society is an extremely complex system. People interact in an intricate network of relationships, both on a personal level or as part of more complex institutions (companies, associations, political parties, religions, geographical communities).
