@@ -142,4 +142,4 @@ Bitcoin restores the right to save.
 # Footnotes
 ¹ Unless you believe that you can have the free cake since "debt is money that we owe to ourselves" like a [famous economist](https://twitter.com/paulkrugman/status/1180457374705999872), an argument that would make anyone extremely wary, unless they studied economics.
 
-² Well, even in that case, it's a long a difficult process that typically requires years. The 2017 [Segregated Witness](https://en.wikipedia.org/wiki/SegWit) upgrade was in the works since 2015.
+² Well, even in that case, it's a long and difficult process that typically requires years. The 2017 [Segregated Witness](https://en.wikipedia.org/wiki/SegWit) upgrade was in the works since 2015.
