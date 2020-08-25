@@ -1,5 +1,5 @@
 ---
-title: Incentive alignment in money production [draft]
+title: Bitcoin is incentive-aligned savings technology
 layout: post
 author: Salvatore Ingala
 category: bitcoin
@@ -114,13 +114,15 @@ You name it: incentives! Why would they? Most of the nodes that participate to t
 
 The only rule changes that can find consensus of the majority of the nodes are those that improve Bitcoin for everyone, or at least the vast majority of the users².
 
-Therefore, we can be reasonably certain that Bitcoin won't ever introduce inflation, because the it's incentive-aligned with its absence..
+It is a sometimes claimed that the majority of the miners can change the rules if they want to do it.  That would be a problem, as they clearly have a potential interest in doing so, for example by issuing more coins so they can earn more money. A detailed discussion of whether this is possible is out of scope for this post. The short answer is: they could potentially impose *some* types of changes that can be implemented via a *soft-fork* (for example: censoring some transactions); but changing the issuance requires a *hard-fork*. The fact that even a supermajority of miners can't easily impose a hard-fork was tested in 2017 when miners abandoned the contentious [Segwit2X](https://en.bitcoin.it/wiki/SegWit2x) hard-fork proposal that was supported by a majority of 90% of the miners, once it became clear that the market supported the regular Segwit soft-fork instead.
+
+Therefore, we can be reasonably certain that Bitcoin won't ever introduce inflation, because the it's incentive-aligned with its absence.
 
 # What does this mean?
 This paragraph is about the future, therefore it's purely my opinion. There's plenty of people who thinks that Bitcoin will fail and go to zero, or that it's [probably rat poison squared](https://www.cnbc.com/2018/05/05/warren-buffett-says-bitcoin-is-probably-rat-poison-squared.html) (but at least, by virtue of being *squared*, it should never go below zero, [unlike oil](https://www.theguardian.com/world/2020/apr/20/oil-prices-sink-to-20-year-low-as-un-sounds-alarm-on-to-covid-19-relief-fund)!).
 Do your own research and invest in *learning* first and foremost.
 
-At the time of writing, the price of 1 ₿ is 11850$, and the total value of all Bitcoins in circulation is just above 200 billion dollars, which is still a relatively small number in the scale of global economy (see [2] for a great comparative visualization of the size of different type of money and other assets).
+At the time of writing, the price of 1 ₿ is above 11000$, and the total value of all Bitcoins in circulation is just above 200 billion dollars, which is still a relatively small number in the scale of global economy (see [2] for a great comparative visualization of the size of different type of money and other assets).
 
 Therefore, it's still too small to have a substantial impact on the world economy. But it now *exists*. While it is still not widely considered as a *savings technology*, recognition is growing. Hedge fund manager Paul Tudor Jones [bought Bitcoin](https://www.cnbc.com/2020/05/11/paul-tudor-jones-calls-bitcoin-a-great-speculation-says-he-has-almost-2percent-of-his-assets-in-it.html); using his words, "Every day that goes by that Bitcoin survives, the trust in it will go up". More recently, The Business Intelligence company MicroStrategy [bought 250M $ worth of Bitcoin](https://fortune.com/2020/08/11/buying-bitcoin-microstrategy-cryptocurrenc/), allocating to it 20% of their cash reserves.
 
