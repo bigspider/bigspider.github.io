@@ -38,3 +38,17 @@
 .center {
     text-align: center;
 }
+
+
+.card img {
+    max-width: 100%;
+}
+
+@media (max-width: 480px) {
+    .card-header {
+        margin-top: 1.5rem;
+    }
+    .post-title {
+        font-size: 2rem;
+    }
+}
