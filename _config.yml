@@ -18,7 +18,13 @@ urls:
 
 author_logo: profile.png
 author: Salvatore Ingala
-author_bio: I'm Salvatore Ingala. I like software that can't be evil.
+author_bio: Since my first contact with programming, on a QBasic interpreter of an old DOS machine, I've been fascinated with the idea that I can let computers do things for me. The satisfaction of running the code that you've worked on and finally see it do exactly what you wanted has always been extremely fulfilling.<br/>
+  <br/>
+  I've always been curious, and always liked to break things into pieces to see how they worked. And during my high school years, I would solve problems in maths and computer science just for fun, for the challenge. I trained and participated to maths and informatics competitions, and I had some successes. That lead to my interest in algorithms and data structures, and more theoretical aspects of computer science, that I pursued during my PhD. I saw it as the quest to understand what is possible to do with computers.<br/>
+  <br/>
+  Towards the end of my PhD, I started getting more and more interested to Bitcoin. As a computer scientist, I was astonished how a software system based on few basic principles could create something that just works as intended, without a chance for the participant to change it or abuse it. I started to dig more and ponder the implications for society, slowly growing a belief that it is a defensive technology that will help people protect themselves from oppression, or from a catastrophic failure of the financial system.<br/>
+  <br/>
+  Bitcoin lies in a beautiful intersection of many of my passions and beliefs. It is a common good, as it is open source and not owned by anyone. It can bring good to the world. It is at the centre of state-of-the-art research in algorithms, cryptography and distributed systems, that keeps expanding its capabilities. And I can also bring my contribution as a programmer.
 author_email: "salvatoshi@protonmail.com"
 author_location: Digital Nomad
 author_website_url: "https://salvatoshi.com"
@@ -40,6 +46,7 @@ author_work_experiences:
               dates: March 2019 - July 2020
               description: One of three developers who built an accountable transaction relayer for Ethereum. any.sender is running in production on the Ethereum mainnet.
               visibility: true
+
             - company_name: MBAMentor
               company_logo: mbamentor.png
               company_url: https://www.mbamentor.org/
