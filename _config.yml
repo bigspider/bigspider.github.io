@@ -25,11 +25,19 @@ author_website_url: "https://salvatoshi.com"
 typewrite-text: Welcome
 
 author_work_experiences:
+            - company_name: Talaia Labs
+              company_logo: talaia.png
+              company_url: https://github.com/talaia-labs/python-teos
+              designation: Developer
+              dates: July 2020 - present
+              description: Helping to build The Eye of Satoshi, one of the first open source watchtowers for Bitcoin's Lightning Network. Written in Python.
+              visibility: true
+
             - company_name: anydotcrypto / PISAResearch
               company_logo: anydotcrypto.png
               company_url: https://www.anydot.dev/
               designation: Software Engineer
-              dates: March 2019 - present
+              dates: March 2019 - July 2020
               description: One of three developers who built an accountable transaction relayer for Ethereum. any.sender is running in production on the Ethereum mainnet.
               visibility: true
             - company_name: MBAMentor
