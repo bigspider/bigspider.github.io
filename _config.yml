@@ -31,12 +31,20 @@ author_website_url: "https://salvatoshi.com"
 typewrite-text: Welcome
 
 author_work_experiences:
+            - company_name: Ledger
+              company_logo: ledger.png
+              company_url: https://ledger.com
+              designation: Embedded Application Engineer
+              dates: January 2021 - present
+              description: Implementing, testing and deploying secure applications running on top of embedded devices.
+              visibility: true
+
             - company_name: Talaia Labs
               company_logo: talaia.png
               company_url: https://github.com/talaia-labs/python-teos
               designation: Developer
-              dates: July 2020 - present
-              description: Helping to build The Eye of Satoshi, one of the first open source watchtowers for Bitcoin's Lightning Network. Written in Python.
+              dates: July 2020 - September 2020
+              description: Contributed to The Eye of Satoshi, one of the first open source watchtowers for Bitcoin's Lightning Network. Written in Python.
               visibility: true
 
             - company_name: anydotcrypto / PISAResearch
