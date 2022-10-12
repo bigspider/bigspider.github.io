@@ -116,7 +116,7 @@ The only rule changes that can find consensus of the majority of the nodes are t
 
 It is a sometimes claimed that the majority of the miners can change the rules if they want to do it.  That would be a problem, as they clearly have a potential interest in doing so, for example by issuing more coins so they can earn more money. A detailed discussion of whether this is possible is out of scope for this post. The short answer is: they could potentially impose *some* types of changes that can be implemented via a *soft-fork* (for example: censoring some transactions); but changing the issuance requires a *hard-fork*. The fact that even a supermajority of miners can't easily impose a hard-fork was tested in 2017 when miners abandoned the contentious [Segwit2X](https://en.bitcoin.it/wiki/SegWit2x) hard-fork proposal that was supported by a majority of 90% of the miners, once it became clear that the market supported the regular Segwit soft-fork instead.
 
-Therefore, we can be reasonably certain that Bitcoin won't ever introduce inflation, because the it's incentive-aligned with its absence.
+Therefore, we can be reasonably certain that Bitcoin won't ever introduce inflation, because it's incentive-aligned with its absence.
 
 # What does this mean?
 This paragraph is about the future, therefore it's purely my opinion. There's plenty of people who thinks that Bitcoin will fail and go to zero, or that it's [probably rat poison squared](https://www.cnbc.com/2018/05/05/warren-buffett-says-bitcoin-is-probably-rat-poison-squared.html) (but at least, by virtue of being *squared*, it should never go below zero, [unlike oil](https://www.theguardian.com/world/2020/apr/20/oil-prices-sink-to-20-year-low-as-un-sounds-alarm-on-to-covid-19-relief-fund)!).
