@@ -60,7 +60,7 @@ In some instances (including the Nixon shock) such measures were called "tempora
 
 ## Fiat money
 
-Once the backing is removed completely, we reach the most modern form of centralized money: *fiat money*, which is money by decree. It doesn't have any intrinsic value, nor it is backed by anything that has value and is stored elsewhere. A pure 
+Once the backing is removed completely, we reach the most modern form of centralized money: *fiat money*, which is money by decree. It doesn't have any intrinsic value, nor it is backed by anything that has value and is stored elsewhere.
 
 The government cannot directly print money. Central banks, instead, can expand the money supply by extending loans.
 
