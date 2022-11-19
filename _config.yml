@@ -158,7 +158,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-algolia
-  - jekyll-menus
+  # - jekyll-menus
 
 # Exclude from processing.
 # The following items will not be processed, by default.
