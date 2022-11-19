@@ -8,9 +8,30 @@ layout: default
         <div class="card">
                 <h1 class="card-title">Bitcoin</h1>
                 <p>My current research interest is: Bitcoin, smart contracts, cryptography, protocols. I have a lot to learn.</p>
-                <p>I am particularly interested in techniques that enhance Bitcoin's smart contract capabilities without compromising on fundamental properties like scalability and decentralization.</p>
+                <p>I'm particularly interested in techniques that enhance Bitcoin's smart contract capabilities without compromising on fundamental properties, like <i>scalability</i>, <i>decentralization</i> and <i>censorship-resistance</i>.</p>
                 <p>While a lot of useful and great ideas are first explored in altcoins, I'm convinced that most of them will eventually find their way into Bitcoin, without requiring substantial changes to the base layer.</p>
-                <p>Layer two solutions (lightning and beyond), sidechains, covenants and possibly extensions to Bitcoin's scripting language.</p>
+                <div class="research-container">
+                    <div class="research-item">
+                        <p class="research-title">
+                            <a href="https://merkle.fun">Merkleize All The Things</a>
+                            &nbsp;-&nbsp;
+                            <a href="https://github.com/Merkleize">
+                                <i class="fab fa-github"></i>
+                                github
+                            </a>
+                        </p>
+                        <p class="research-description">
+                            This research explores a type of <i>covenant</i> (and some additional <i>transaction introspection</i>) that would enable very general classes of smart contracts in bitcoin.
+                        </p>
+                        <p class="research-description">
+                            Such covenants could be enabled as a soft-fork, with little to no additional workload for fully validating nodes.
+                        </p>
+                        <p class="research-description">
+                            The writeup argues that such covenants would enable chains of bitcoin transactions to perform arbitrary computations. Moreover, it would make a generic <i>fraud proof protocol</i> possible, allowing to create scalable layer-2.
+                        </p>
+                    </div>
+                </div>
+
                 <div class="research-container">
                     <div class="research-item">
                         <p class="research-title">
@@ -22,7 +43,7 @@ layout: default
                             </a>
                         </p>
                         <p class="research-description">
-                            In this work (in progress), I explore a class of cryptographic accumulators that I believe has the potential to allow for extensions of Bitcoin's scripting capabilities, without sacrificing on the fundamental properties that make it easy for anyone to run a full node. These accumulators only allow to add elements to a set, and are cheap to maintain (should they become part of the consensus rules), while moving the cost of proving set membership to the interested parties. Therefore, while the "state" grows arbitrarily, no validating nodes needs to hold more than a short "summary" of it.
+                            In this work, I explore a class of cryptographic accumulators that I believe has the potential to allow for extensions of Bitcoin's scripting capabilities, without sacrificing on the fundamental properties that make it easy for anyone to run a full node. These accumulators only allow to add elements to a set, and are cheap to maintain (should they become part of the consensus rules), while moving the cost of proving set membership to the interested parties. Therefore, while the "state" grows arbitrarily, no validating nodes needs to hold more than a short "summary" of it.
                         </p>
                         <p class="research-description">
                             While an append-only state is less flexible than a key-value store (as in Ethereum), I believe that many of the interesting protocols using smart contracts can be adapted to use an append-only state managed by an accumulator.

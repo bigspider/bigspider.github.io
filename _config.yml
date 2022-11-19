@@ -26,7 +26,7 @@ author_bio: Since my first contact with programming, on a QBasic interpreter of 
   <br/>
   Bitcoin lies in a beautiful intersection of many of my passions and beliefs. It is a common good, as it is open source and not owned by anyone. It can bring good to the world. It is at the centre of state-of-the-art research in algorithms, cryptography and distributed systems, that keeps expanding its capabilities. And I can also bring my contribution as a programmer.
 author_email: "salvatoshi@protonmail.com"
-author_location: Digital Nomad
+author_location: Paris
 author_website_url: "https://salvatoshi.com"
 author_gpg_fingerprint: "9F40 1144 7A63 9254 CE48  6576 7406 0FF8 1B33 E4F8"
 typewrite-text: Welcome
@@ -37,7 +37,7 @@ author_work_experiences:
               company_url: https://ledger.com
               designation: Embedded Application Engineer
               dates: January 2021 - present
-              description: Implementing, testing and deploying secure applications running on top of embedded devices.
+              description: I implemented and continue developing the new <a href="https://github.com/LedgerHQ/app-bitcoin-new">Ledger Bitcoin application</a>, bringing in innovative features like PSBT support, taproot, multisignature and miniscript via wallet policies.
               visibility: true
 
             - company_name: Talaia Labs
